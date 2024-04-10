@@ -1,5 +1,5 @@
 # TimeSeries-AdCampaign
-AdEase company's ad campaign influences the click rate of Wikipedia pages
+Ad Agency company's ad campaign influences the click rate of Wikipedia pages
 
 ## Ad Agency perspective
 Ad Agency which is a marketing-based company helping businesses elicit maximum clicks @ minimum cost.
